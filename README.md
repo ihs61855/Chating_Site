@@ -9,10 +9,10 @@ NODE JS 기반 채팅 사이트
 
 ## 기능
 - 채팅 기능
--- 기본 채팅
--- Append
--- Is Typing
--- 닉네임(중복 확인)
+  - 기본 채팅
+  - Append
+  - Is Typing
+  - 닉네임(중복 확인)
 
 - Chatbo
 -- 출입 알림
